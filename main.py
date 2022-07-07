@@ -2,6 +2,8 @@
 
 # This is a new config generator for my projects.
 # NOTE: The config parser/generator is for python only.
+
+# TODO: Make names for projects.
 import os
 projname = "kproj"
 
